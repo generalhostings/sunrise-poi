@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sunrise Palm Oil Price",
+      "hasCanvas": false,
+      "bodyTextLen": 8900,
+      "bodyTextHash": "2d51f3df3b59454005ffeb296f293aab2b45831d54f8e42eaadf1ae6deb28ac4",
+      "bodyTextPrefix": "Sunrise Palm Oil Price TBS & CPO APKASINDO · 17–23 Agustus 2026 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sunrise Palm Oil Price",
+      "hasCanvas": false,
+      "bodyTextLen": 8519,
+      "bodyTextHash": "1c69133364521a9467d29b5af58972e5c80a05e8a3efcc2b9f26d3b92064c5ca",
+      "bodyTextPrefix": "Sunrise Palm Oil Price Cetak PANTAUAN HARGA PETANI · 22 PROVINSI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
